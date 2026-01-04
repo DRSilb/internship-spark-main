@@ -1,0 +1,46 @@
+
+1
+
+Automatic Zoom
+David Silberger 
+david.silberger@gmail.com|linkedin.com/in/david-silberger-079b0a344/|https://github.com/DRSilb| 
+(516) 650-5790 | Wantagh, NY  
+Education   
+Fairfield University                                  Expected Graduation: May, 2028  
+B.S. Computer Science, B.S. Mathematics                                     Fairfield, CT ▪  Honors Program Living and Learning Community Resident ▪  GPA: 3.93, Dean’s List Relevant Coursework: ▪  Ethical Hacking, Real Analysis, Probability Theory, Computer Science Sophomore Clinic, Web Development, Multivariable Calculus, Digital Design, Discrete Mathematics Extracurriculars ▪  Treasurer and Assistant Coach of Club Volleyball Team ▪  Computer Science Society Projects   
+Real-Time Data Visualization Web App ▪  Developed a full-stack web application to track and visualize real-time user statistics from a dedicated game server. ▪  Engineered a Python backend script to automatically query and parse JSON data via an API on an hourly basis. 
+▪  Designed and built a dynamic front-end with HTML, CSS, and vanilla JavaScript that allows users to compare 
+statistics and upload local JSON files for custom analysis. 
+▪  Self-hosted the entire stack, including the website and the game server, on a home server running a 
+Linux(Ubuntu) distribution. 
+Raspberry Pi Smart Mirror 
+▪  Constructed a custom smart mirror using a Raspberry Pi, integrating a monitor, two-way mirror, and frame. 
+▪  Developed a custom dashboard that displays real-time data by integrating multiple APIs for weather and 
+calendar events, and includes a module to securely process and display user location data as a live status.  
+▪  Managed system software, network configuration, and startup scripts to ensure a seamless and automated user 
+experience. 
+Local Business Data Scraper & Mapping Tool 
+▪  Developed a Python automation script using pyautogui and a browser extension to systematically gather and 
+scrape data for local service businesses from online directories. 
+▪  Engineered a data processing pipeline in Python to clean and merge disparate CSV files, then utilized a 
+geospatial visualization library to plot the businesses on an interactive map. 
+▪  Implemented filtering capabilities on the map to allow for market analysis, specifically to identify and target 
+businesses lacking an online presence for a web development outreach initiative. 
+Network Analysis & Security Auditing 
+▪  Leveraged Kali Linux and tools like Wireshark to perform network traffic analysis, identify potential 
+vulnerabilities, and conduct simulated security audits in a sandboxed virtual environment. Skills 
+Languages: Python, Java, JavaScript, C++, C, HTML/CSS Tools & Technologies: Git, Linux, Wireshark, Kali/Debian/Ubuntu Linux, Excel, Colab 
+Experience 
+Residential Assistant                           2025-Present Fairfield University                                         Fairfield, CT 
+▪  Fostered a positive living environment for 38 students by organizing 3+ monthly community-building events 
+while also mediating interpersonal conflicts and enforcing residential policies. 
+Childcare Assistant                                        2024-2025 
+CATS, Private Daycare                          Rockville Centre, NY ▪  Developed and implemented a weekly curriculum of pre-K activities, managing care to promote cognitive and social skill development for children aged 2+. 
+Achievements   
+FIRST Robotics                             2020-2024 
+▪  As team captain and lead Java Programmer, led the team to three consecutive regional championship rounds. 
+▪  Wrote the award-winning control software for robot navigation, securing the 1st place Control Award (2024).
+
+PROFESSIONAL SUMMARY
+David is a full-stack systems engineer passionate about accelerating computational performance through robust software architecture. With hands-on experience in real-time data visualization, embedded Linux systems, and network optimization, David excels at building scalable infrastructures that bridge hardware and software layers. His expertise in Python backend development and systems-level programming, combined with his leadership in robotics competitions, positions him to contribute meaningfully to NVIDIA's mission of advancing parallel computing. When paired with Sam's AI and data science expertise, David's infrastructure mastery creates a powerful synergy—transforming raw computational insights into efficient, production-grade systems that power AI acceleration. 
+ 
